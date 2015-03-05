@@ -9,7 +9,7 @@ body { margin-left:50px;
 h1 { color:#CC6666;
 text-align: center}
 
-#ashland img.center {
+img.centered{
   display: block;
   margin-left: auto;
   margin-right: auto;
