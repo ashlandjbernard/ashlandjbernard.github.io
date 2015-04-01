@@ -116,15 +116,15 @@ a:visited {
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 10px;
+	border: 3px solid white;
 }
 
 img.kiera {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 200px;
-  width: 300px;
-  border: 3px solid white;
+  height: auto;
+  width: auto;
 }
 
 
