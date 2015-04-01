@@ -13,7 +13,7 @@ img {
 }
 
 table, td {
-	border: 1px #70b8ff dashed;
+	border: 1px #00143e solid;
 }
 
 div {
@@ -28,6 +28,7 @@ div {
 	margin-top: -20px;
 	height: 100px;
 	margin-bottom: 10px;
+	text-align: center;
 }
 
 #name {
