@@ -63,13 +63,7 @@ h4 {
 	font-family: Verdana, sans-serif;
 }
 
-.right p {
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: -300px;
-	font-family: Garamond, serif;
-	color: #000000;
-}
+
 
 li {
 	list-style-type: square;
@@ -95,8 +89,8 @@ a:hover {
 .right {
 	position: relative;
 	float: right;
-	margin-top: 50px;
-	width: 88%;
+	margin-top: 310px;
+	width: 90%;
 	height: 800px;
 	background-color: #d9d9d9;
 	margin-bottom: 10px;
