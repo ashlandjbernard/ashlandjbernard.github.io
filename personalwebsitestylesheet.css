@@ -89,7 +89,7 @@ a:visited {
 	position: relative;
 	background-color: #B9D7D9;
 	float: left;
-	width: 10%;
+	width: 11%;
 	height: 2400px;
 	margin-top: 5px;
 	margin-bottom: 5px;
@@ -98,7 +98,7 @@ a:visited {
 .right {
 	position: relative;
 	float: right;
-	width: 85%;
+	width: 87.5%;
 	height: 2000px;
 	background-color: #8d8787;
 	margin-top: 5px;
@@ -113,7 +113,7 @@ a:visited {
 #persona {
 	position: relative;
 	float: right;
-	width: 85%;
+	width: 87.5%;
 	height: 400px;
 	background-color: #e0e3e7;
 	margin-top: 5px;
