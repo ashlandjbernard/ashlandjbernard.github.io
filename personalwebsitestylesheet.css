@@ -7,12 +7,14 @@ img.centered{
   width: 300px;
 }
 
-#table {
+table {
 	width:50px;
 	height:50px;
 }
 
-
+th {
+    height: 50px;
+}
 
 div {
     border-radius: 5px;
