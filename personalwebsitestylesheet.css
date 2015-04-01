@@ -62,7 +62,6 @@ li {
 
 a:link {
 	font-family: Courier;
-	font-weight: bold;
 	color: white;
 }
 
@@ -73,7 +72,7 @@ a:hover {
 }
 
 a:visited {
-	color: #0d5875;
+	color: black;
 	font-family: Courier;
 }
 
