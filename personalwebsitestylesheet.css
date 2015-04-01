@@ -98,11 +98,25 @@ a:visited {
 	position: relative;
 	float: right;
 	width: 90%;
+	height: 900px;
 	background-color: #d9d9d9;
-	margin-top: -2500px;
+	margin-top: -200px;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 10px;
+}
+
+.persona {
+	position: relative;
+	float: right;
+	width: 90%;
+	height: 400px;
+	background-color: white;
+	margin-top: -10px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	
 }
 
 #footer {
