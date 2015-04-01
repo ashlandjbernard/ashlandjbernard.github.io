@@ -3,19 +3,18 @@ img.centered{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  height: 200px;
+  width: 300px;
 }
 
-* {
-    color: #25465e;
-}
 
 div {
     border-radius: 5px;
 }
 
 #header {
-    z-index: 1;
-    background-color: #208c9a;
+    	z-index: 1;
+    	background-color: #208c9a;
 	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
@@ -43,6 +42,7 @@ div {
 }
 
 h4 {
+	color: #107182;
 	margin-left: 5px;
 	margin-bottom: 15px;
 	font-family: Verdana, sans-serif;
@@ -88,7 +88,6 @@ a:hover {
 }
 
 #footer {
-	position: relative;
 	height: 50px;
 	background-color: #668284;
 	clear: both;
