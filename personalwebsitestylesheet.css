@@ -99,12 +99,13 @@ a:visited {
 	position: relative;
 	float: right;
 	width: 85%;
-	height: 2200px;
+	height: 1700px;
 	background-color: #d9d9d9;
 	margin-top: 5px;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 10px;
+	padding-right:5px;
 }
 
 #persona {
