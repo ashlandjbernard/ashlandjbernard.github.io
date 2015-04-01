@@ -22,7 +22,6 @@ div {
 #header {
     	z-index: 1;
     	background-color: #208c9a;
-	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
 	height: 300px;
@@ -104,4 +103,5 @@ a:hover {
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;
+	padding-top:1200px;
 }
