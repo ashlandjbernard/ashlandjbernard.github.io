@@ -112,6 +112,7 @@ a:visited {
 
 #persona {
 	position: relative;
+	border-radius: 5px;
 	float: right;
 	width: 87.5%;
 	height: 400px;
