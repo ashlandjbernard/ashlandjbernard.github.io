@@ -60,8 +60,21 @@ li {
 	list-style-type: square;
 }
 
-a:hover {
+a:link {
+	font-family: Courier;
 	font-weight: bold;
+	color: white;
+}
+
+a:hover {
+	font-family: Courier;
+	font-weight: bold;
+	color: white;
+}
+
+a:visited {
+	color: #0d5875;
+	font-family: Courier;
 }
 
 
