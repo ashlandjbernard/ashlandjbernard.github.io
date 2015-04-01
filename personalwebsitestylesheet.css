@@ -76,9 +76,9 @@ a:hover {
 .left {
 	position: relative;
 	float: left;
-	margin-top: 50px;
+	margin-top: 10px;
 	width: 10%;
-	height: 1200px;
+	height: 2500px;
 	background-color: #B9D7D9;
 	margin-bottom: 10px;
 }
@@ -88,7 +88,7 @@ a:hover {
 	float: right;
 	margin-top: 10px;
 	width: 90%;
-	height: 1200px;
+	height: 2500px;
 	background-color: #d9d9d9;
 	margin-bottom: 10px;
 }
