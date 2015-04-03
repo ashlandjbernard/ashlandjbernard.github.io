@@ -3,9 +3,11 @@
 	font-family: Courier;
 }
 
+p {
+	color: white;
+}
 
-
-img.centered{
+img.centered {
   display: block;
   margin-left: auto;
   margin-right: auto;
