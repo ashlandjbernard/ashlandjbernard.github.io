@@ -66,11 +66,12 @@ li {
 a:link {
 	font-family: Courier;
 	color: white;
+	font-weight: bold;
 }
 
 a:hover {
 	font-family: Courier;
-	font-weight: bold;
+	font-weight: normal;
 	color: white;
 }
 
