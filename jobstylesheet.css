@@ -59,7 +59,7 @@ h1 {
 }
 
 h4 {
-	color: white;
+	color: #B9D7D9;
 	margin-left: 5px;
 	margin-bottom: 15px;
 	font-family: Verdana, sans-serif;
@@ -102,7 +102,7 @@ a:visited {
 }
 
 .right {
-	color: white
+	color: white;
 	position: relative;
 	float: right;
 	width: 85%;
