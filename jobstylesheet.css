@@ -58,7 +58,8 @@ h1 {
 	text-align: center;
 }
 
-h4 {
+
+h2 {
 	color: #B9D7D9;
 	margin-left: 5px;
 	margin-bottom: 15px;
@@ -66,6 +67,10 @@ h4 {
 	text-align: center;
 }
 
+h4 {
+	color: white;
+	font-style: italic;
+}
 
 
 li {
@@ -124,12 +129,12 @@ a:visited {
 
 
 .contact {
-  color: 737C7F;
+  	color: #7F8B91;
 	position: relative;
 	float: right;
 	width: 85%;
 	height: 200px;
-	background-color: #8EE1FF;
+	background-color: #C1EBFF;
 	margin-top: 5px;
 	margin-right: 10px;
 	margin-bottom: 10px;
