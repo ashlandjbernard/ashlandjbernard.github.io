@@ -82,7 +82,10 @@ div {
 	color:white;
 }
 
-
+.video {
+	display: block;
+	margin: 0 auto;
+}
 
 .contact {
   	color: #495254;
