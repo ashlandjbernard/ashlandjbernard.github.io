@@ -37,7 +37,7 @@ div {
     	z-index: 1;
     	background-color: #208c9a;
 	width: 97.5%;
-	height: 100px;
+	height: 150px;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	margin-right: 5px;
@@ -45,7 +45,7 @@ div {
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	font-style: Florence, Parkavenue, Coronetscript;
+	font-style: Verdana;
 }
 
 
@@ -54,7 +54,7 @@ div {
 	background-color: #B9D7D9;
 	float: left;
 	width: 10%;
-	height: 2920px;
+	height: 2970px;
 	margin-top: 5px;
 	margin-bottom: 5px;
 	margin-left: 10px;
@@ -65,7 +65,7 @@ div {
 	position: relative;
 	float: right;
 	width: 85%;
-	height: 2700px;
+	height: 2750px;
 	background-color: #8d8787;
 	margin-top: 5px;
 	margin-right: 10px;
