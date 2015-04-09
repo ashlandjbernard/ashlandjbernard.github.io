@@ -16,11 +16,13 @@ ol, ul {
 }
 
 img.centered {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: auto;
-  width: auto;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	height: auto;
+  	width: auto;
+  	padding-left: 250px;
+	padding-right: 30px;
 }
 
 table {
@@ -83,7 +85,7 @@ div {
 }
 
 #video {
-	padding-left: 100px;
+	padding-left: 250px;
 	padding-right: 30px;
 }
 
