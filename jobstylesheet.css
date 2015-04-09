@@ -83,12 +83,8 @@ div {
 }
 
 #video {
-	position: absolute;
-    	margin: auto;
-    	top: 100%;
-    	left: 0%;
-    	transform: translate(-50%, -50%);
-	
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 .contact {
