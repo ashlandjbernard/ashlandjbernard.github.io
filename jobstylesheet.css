@@ -1,7 +1,4 @@
-* {
-	font-size: 12;
-	font-family: Courier;
-}
+
 
 p {
 	color: white;
@@ -46,9 +43,9 @@ div {
 	margin-right: 5px;
 	margin-left: 10px;
 	text-align: center;
-	font-size:28px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	font-style: Florence, Parkavenue, Coronetscript;
 }
 
 
@@ -77,6 +74,8 @@ div {
 	padding-right:15px;
 	padding-left:15px;
 	padding-top:5px;
+	font-size: 12;
+	font-family: Courier;
 }
 
 .places {
@@ -102,6 +101,8 @@ div {
 	padding-right:15px;
 	padding-left:15px;
 	padding-top:5px;
+	font-size: 12;
+	font-family: Courier;
 }
 
 
