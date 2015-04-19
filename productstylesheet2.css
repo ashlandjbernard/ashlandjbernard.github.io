@@ -604,7 +604,7 @@
 		position: relative;
 		overflow: hidden;
 		background: #fff;
-		color: #fff;
+		color: #468499;
 		text-align: center;
 		border-top: solid 2px #e5e5e5;
 		border-bottom: solid 2px #e5e5e5;
@@ -613,7 +613,7 @@
 
 		#banner-wrapper .inner
 		{
-			background: url('../images/banner.jpg');
+			background: url('http://fc06.deviantart.net/fs70/i/2011/037/e/5/vintage_mountains_by_ctd_official-d38xyo1.jpg');
 			background-size: cover;
 		}
 
