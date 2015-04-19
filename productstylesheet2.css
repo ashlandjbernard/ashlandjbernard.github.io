@@ -592,7 +592,9 @@
 		position: relative;
 		background: #fff;
 		text-align: center;
+		background: url('http://fc06.deviantart.net/fs70/i/2011/037/e/5/vintage_mountains_by_ctd_official-d38xyo1.jpg');
 	}
+	
 
 		#header-wrapper p
 		{
@@ -687,6 +689,7 @@
 		position: relative;
 		border-bottom: solid 2px #e5e5e5;
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
+		
 	}
 
 		#header h1
