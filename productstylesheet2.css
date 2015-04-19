@@ -567,6 +567,7 @@
 	.icon {
 		position: relative;
 		text-decoration: none;
+		size: 16px;
 	}
 
 		.icon:before {
